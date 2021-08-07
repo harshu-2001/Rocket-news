@@ -6432,9 +6432,9 @@ androidx.viewpager.widget.ViewPager$ViewPositionComparator
 com.google.android.gms.base.R
 com.google.android.gms.safetynet.SafetyNetApi$zzc
 androidx.customview.widget.ExploreByTouchHelper
-io.flutter.embedding.engine.systemchannels.PlatformViewsChannel:
-    private static final java.lang.String TAG
 io.flutter.embedding.engine.systemchannels.PlatformChannel:
+    private static final java.lang.String TAG
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel:
     private static final java.lang.String TAG
 com.google.common.collect.Multisets$FilteredMultiset$1
 com.google.android.gms.common.server.response.zam

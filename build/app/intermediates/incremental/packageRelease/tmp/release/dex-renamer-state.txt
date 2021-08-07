@@ -1,4 +1,4 @@
-#Sat Aug 07 12:34:12 IST 2021
+#Sat Aug 07 12:49:20 IST 2021
 base.0=D\:\\flutter\\news_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
