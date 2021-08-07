@@ -25,7 +25,7 @@ class _SignupState extends State<Signup> {
       }
     });
   }
-   void signUp() async {
+   signUp() async {
     if (_formKey.currentState!.validate()) {
       _formKey.currentState!.save();
       var c= new Check(_name, _email, _mob);

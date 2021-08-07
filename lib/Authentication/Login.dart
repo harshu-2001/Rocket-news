@@ -218,7 +218,7 @@ class _LoginState extends State<Login> {
                         ),
                         SizedBox(height: 30,),
                         GestureDetector( onTap: (){
-                              Navigator.pushReplacementNamed(context, "SignUp");
+                              Navigator.pushReplacementNamed(context, "forget");
                         }
                           ,child: Text(
                             "Forgot Password?", 
@@ -394,7 +394,7 @@ class _LoginState extends State<Login> {
                                 Expanded(
                                   child: GestureDetector(
                                     onTap: (){
-                                        Navigator.pushReplacementNamed(context, "forget");
+                                        Navigator.pushReplacementNamed(context, "SignUp");
                                     },
                                     child: Center(
                                       child: Text("Create New", style:GoogleFonts.lato(
