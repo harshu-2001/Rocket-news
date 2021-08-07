@@ -53,7 +53,7 @@ class _SignupState extends State<Signup> {
         context: context,
         builder: (BuildContext context) {
           return AlertDialog(
-            title: Text('${val}'),
+            title: Text('$val'),
             shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(40.0)),
             content: Text(errormessage),
             actions: <Widget>[
