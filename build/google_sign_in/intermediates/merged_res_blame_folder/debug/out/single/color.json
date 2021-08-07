@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\flutter\\news_app\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Ryzen5\\.gradle\\caches\\transforms-2\\files-2.1\\880b6600d3292b6bef09bdc5debcf4bd\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\flutter\\news_app\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Ryzen5\\.gradle\\caches\\transforms-2\\files-2.1\\880b6600d3292b6bef09bdc5debcf4bd\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\flutter\\news_app\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Ryzen5\\.gradle\\caches\\transforms-2\\files-2.1\\880b6600d3292b6bef09bdc5debcf4bd\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]
